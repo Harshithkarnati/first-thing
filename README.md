@@ -1,1 +1,1 @@
-# first-thing
+this is my first project
